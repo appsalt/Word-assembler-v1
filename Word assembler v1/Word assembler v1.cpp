@@ -6,8 +6,13 @@
 #include <iterator>
 #include <vector>
 
-//create a string of unique letters of the word 
-//count the numer of the unique letter in the word
+//count the numer of the words letters in the word
+//count the numer of the words letters in the letters
+/* 
+   Devide the number of the words letter in the letters, 
+   by the number of the words letter in the word.
+   To get the available number of letters
+*/
 
 
 
